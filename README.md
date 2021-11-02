@@ -1,7 +1,7 @@
 # Puzzle
 
 
-##execution results
+## execution results
 
 ![螢幕擷取畫面 2021-11-02 120958](https://user-images.githubusercontent.com/84724495/139786476-801300ba-33aa-4c49-8e8f-a31d3ef1f64b.png)
 ![螢幕擷取畫面 2021-11-02 121134](https://user-images.githubusercontent.com/84724495/139786883-48758e64-c713-4b6e-b5a9-8707cf475e69.png)
